@@ -1,6 +1,6 @@
-# SayHello
+# Speak Boldly
 
-*Say hello to the world.*
+*Speak boldly to the world.*
 
 > Messages Board of JiaXing Yang(Chirisy)
 
