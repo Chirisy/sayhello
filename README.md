@@ -10,7 +10,7 @@
 
 clone:
 ```
-$ git clone https://github.com/greyli/sayhello.git
+$ git clone https://github.com/Chirisy/sayhello.git
 $ cd sayhello
 ```
 create & activate virtual env then install dependency:
