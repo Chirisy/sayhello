@@ -1,10 +1,8 @@
-# SayHello
+# Speak Boldly
 
-*Say hello to the world.*
+*Speak boldly to the world.*
 
-> Example application for *[Python Web Development with Flask](https://helloflask.com/en/book/1)* (《[Flask Web 开发实战](https://helloflask.com/book/1)》).
-
-Demo: http://sayhello.helloflask.com
+> Messages Board of JiaXing Yang(Chirisy)
 
 ![Screenshot](https://helloflask.com/screenshots/sayhello.png)
 
@@ -12,7 +10,7 @@ Demo: http://sayhello.helloflask.com
 
 clone:
 ```
-$ git clone https://github.com/greyli/sayhello.git
+$ git clone https://github.com/Chirisy/sayhello.git
 $ cd sayhello
 ```
 create & activate virtual env then install dependency:
