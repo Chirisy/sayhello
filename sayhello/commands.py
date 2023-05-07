@@ -4,7 +4,6 @@ import click
 from sayhello import app, db
 from sayhello.models import Message
 
-
 @app.cli.command()
 @click.option('--drop', is_flag=True, help='Create after drop.')
 def initdb(drop):
